@@ -1,14 +1,12 @@
 <br clear="both">
 
-<img align="left" height="100" src="https://camo.githubusercontent.com/5417b2eeea698072b823820f973c430610314505b97d2acf286a91797e460d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"  />
-
-###
-
 <h2 align="center">Code enthusiast | Lifelong learner | Building things that make life easier</h2>
 
 ###
 
-<br clear="both">
+<img align="left" height="170" src="https://camo.githubusercontent.com/5417b2eeea698072b823820f973c430610314505b97d2acf286a91797e460d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"  />
+
+###
 
 <div align="center">
   <a href="Mailto:ocalanogulcan@gmail.com" target="_blank">
@@ -24,15 +22,11 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img height="30" src="https://camo.githubusercontent.com/4338df669b1a3a10cd301b2551dea2156d61791ee20b11fc5553b84588c3ca57/68747470733a2f2f692e696d6775722e636f6d2f6f7a45776248732e676966"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -52,10 +46,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ocalanogulcan&theme=github-dark&hide_border=false&hide_title=true&area=false" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ocalanogulcan&theme=github-dark&hide_border=true&hide_title=true&area=false" height="500" alt="activity-graph graph"  />
 </div>
 
 ###
