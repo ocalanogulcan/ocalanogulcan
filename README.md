@@ -15,7 +15,7 @@
   <a href="instagram.com/ogulcannocalan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="38" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/o%C4%9Fulcan-%C3%B6%C3%A7alan-768530197/" target="_blank">
+  <a href="https://www.linkedin.com/in/ogulcannocalan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="38" alt="linkedin logo"  />
   </a>
 </div>
